@@ -1,8 +1,5 @@
-# asd
+asda
 
-<<<<<<< HEAD
 
-asddas
-=======
-asdasdas
->>>>>>> feature/deneme2
+
+
